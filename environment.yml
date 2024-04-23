@@ -1,4 +1,4 @@
-name: 13lab-4s-
+name: lab15-4-
 channels:
   - defaults
 dependencies:
@@ -7,6 +7,5 @@ dependencies:
  - isort
  - black
  - pre-commit
- - click
- - mypy
+
 
